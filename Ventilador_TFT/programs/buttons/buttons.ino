@@ -11,7 +11,7 @@ UTouch  myTouch(7, 6, 5, 4, 3);
 // Declare which fonts we will be using
 extern uint8_t BigFont[];
 
-int ch1 = 13; // Asigno una variable int indicando el puerto por el que se conecta el servo
+int ch1 = 13; // pin of the arduino to connect the channel 1 of the relay
 
 int x, y;
 
